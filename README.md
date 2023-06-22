@@ -1,7 +1,7 @@
 ### Hey! I'm Gustavo Montenegro =]
  <div>
   <a href="https://github.com/DevMontenegro">
-   <h1>You can contact me by these links on below 👇🏻</h1>
+   <h1>Back-End Developer</h1>
    
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=DevMontenegro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMontenegro&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -9,6 +9,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="DevMontenegro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="DevMontenegro-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+  <img align="center" alt="DevMontenegro-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="DevMontenegro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="DevMontenegro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="DevMontenegro-gojo" height="120" width="120" src="https://i.pinimg.com/originals/e3/44/40/e344400ad0c023905c1b66961e242f8d.gif">
