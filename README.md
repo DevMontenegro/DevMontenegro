@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-contato.devmontenegro@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.devmontenegro@gmail.com)](mailto:contato.devmontenegro@gmail.com)
 
 ## My name is Gustavo Montenegro
-(Java | Spring Boot | AWS | React JS | Angular | Typescript | Javascript | HTML | CSS ) 🚀
+(Java | Spring Boot | AWS | Angular ) 🚀
 - 👩‍💻 Software Enginner @ ?
 - 🎓 Information Systems bachelor's degree @ [UNIFACOL](https://si.unifacol.edu.br/)
 - 🌐 Passionate about web development
