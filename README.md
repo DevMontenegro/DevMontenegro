@@ -5,7 +5,7 @@
 
 ## My name is Gustavo Montenegro
 (Java | Spring Boot | AWS | Angular ) 🚀
-- 👩‍💻 Software Enginner @ ?
+- 👩‍💻 Founder & CTO @montesys
 - 🎓 Information Systems bachelor's degree @ [UNIFACOL](https://si.unifacol.edu.br/)
 - 🌐 Passionate about web development
 - 💡 Addicted on challenges
